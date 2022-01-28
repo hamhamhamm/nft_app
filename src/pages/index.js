@@ -19,9 +19,9 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              NFT application
               <br />
-              magna sed accumsan arcu neque.
+              
             </h2>
           </header>
           <p>
